@@ -147,10 +147,8 @@ This project demonstrates how EDA can:
 
 ## 👨‍💻 Author
 
-**Mostafa Gamal**
+**Mostafa Gamal,Amany ibrahim**
 
-
-**Amany ibrahim**
 ---
 
 ## ⭐ Future Improvements
